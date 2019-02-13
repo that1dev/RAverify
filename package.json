@@ -1,4 +1,4 @@
-{
+y{
   "dependencies": {
     "common-tags": "^1.7.2",
     "discord.js": "https://github.com/discordjs/discord.js.git#276109ed3c8ee990296af34e2ae0a6174e151c70",
@@ -13,11 +13,11 @@
     "uws": "^10.148.0",
     "zlib-sync": "^0.1.4"
   },
-  "name": "rover",
+  "name": "RAverify",
   "version": "1.0.0",
   "main": "src/index.js",
-  "repository": "https://github.com/evaera/RoVer",
-  "author": "evaera",
+  "repository": "https://github.com/that1dev/RAverify",
+  "author": "RedlynLaw",
   "license": "Apache-2.0",
   "scripts": {
     "test": "standard",
